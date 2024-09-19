@@ -7,3 +7,15 @@ The entirety of the code in this repo is from the credited parties.
 
 For more info join our discord.gg/nanorblx or add my account sputatf
 
+FEATURES
+
+Player Fuser ESP
+Admin ESP
+No Recoil / Recoil Modifier
+SpiderMan
+Force Admin
+Change Time
+Bright Nights
+FOV Changer
+Bright Caves
+DTB Fix
